@@ -1,0 +1,3 @@
+# Servidors to monitor (one by line)
+8.8.8.8    # Google DNS 1
+8.8.4.4    # Google DNS 2
