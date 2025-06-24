@@ -1,0 +1,10 @@
+# Ignore logs but keep directory structure
+logs/*
+!logs/.gitkeep
+
+# System files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
